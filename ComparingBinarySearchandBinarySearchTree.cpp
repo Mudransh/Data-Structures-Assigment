@@ -1,5 +1,5 @@
-#include <iostream>                   //Mudransh Sethi
-#include <queue>                     //SID:21105087 Mechanical
+#include <iostream>                   
+#include <queue>                     
 using namespace std;
 
 //Creating structure of Node of a tree
